@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Zhichao Chen
-    tagline: Undergraduate Student
+    tagline: Undergraduate in Nanjing University
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -33,7 +33,7 @@ sidebar:
         level: Native
 
       - idiom: Madarin
-        level: Professional
+        level: Native
 
       - idiom: English
         level: Professional
@@ -49,134 +49,166 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Education
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      **<font size=4>Nanjing University (NJU)</font>**, <font color=DarkGray>Nanjing, China</font>      
+      *<font size=3>Bachelor of Engineering in Electronic Science and Engineering</font>*      
+              <font size=3>Sep 2019 - Jul 2023 (expected)</font>\\
+        **Major:** Integrated Circuits Design and Integrated System | **GPA:** 4.56/5 \\
+        **Ranking:** **#3 out of all international students**, #6 out of 39 in the major, Top 10% in the school \\
+        **Core Courses:** CMOS Analog Circuit Design (94, top 5), IC Design and Solution (96, ranking 5%), Advanced Integrated Circuits Design and Experiment (85, top 2 in undergraduates), Engineering Fundamental of Artificial Intelligence IV (97, top 5), Operating System and Linux Programming (94, ranking 5%). 
+        <hr>
+        **<font size=4>University of Dayton (UD)</font>**, <font color=DarkGray>Ohio, USA,</font>\\
+        **<font size=4>Karlsruhe Institute of Technology (KIT)</font>**, <font color=DarkGray>Karlsruhe, Germany</font>\\
+        *<font size=3>Exchange Student</font>* | *<font size=3>Teaching Assistant (Online)</font>*\\
+                   <font size=3>Oct 2021 - Nov 2021 (expected)</font>\\
+        Participated in International *Online Scientific Excursion & Research Project* on Integrated Circuit and Advanced Manufacturing for Undergraduate Students
+                  
+        
+            
+
 education:
-    - degree: BSc in Electronic Science and Engineering
-      university: Nanjing University
-      time: 2019 - 2023(expected)
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Integrated Circuits Design
+      university: in-memory computing chip design, AI hardware acceleration
+      time:
+      # details: |
+      #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+      #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      #   pretium quis, sem.
+      #     - Bullet point
+      #     - Bullet point
+    - degree: Computer Vision
+      university: domain adaptation, active segmentation adaptation
+      time:
+    - degree: Electronic Design Automation
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: <b>Active learning for domain adaptation (Online)</b>
+      time: Apr 2022 - Present
+      company: |
+        Exchange Scholar | University of California, Berkeley, USA
+
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        **Advisor:** *Prof. Alberto L. Sangiovanni-Vincentelli, Dr. Xiangyu Yue, Dept. of Electrical Engineering and Computer Sciences, [University of California, Berkeley](https://www.berkeley.edu/), USA*
+          - Expecting to implement an algorithm of active learning for domain adaptation on image/region level.
+
+    - role: <b>Multi-bit Flash cell/array high-precision read/write programming chip design for Computing-In-Memory (CIM)</b>
+      time: Sep 2021 – Present
+      company: |
+        Core Member | Nanjing University, China
+
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        **Advisor:** *Prof. Yuan Du, Prof. Li Du, School of Electronic Science and Engineering, [Nanjing University](https://www.nju.edu.cn), China*
+          - Contributed to designing a CMOS analog sense amplifier, an analog current comparison module, a capacitor charging module and the whole flash array layout.
+          - Built a library of digital logic devices, including all kinds of decoders and analog/digital multiplexers.
+          - Designed a MOSFET array with self-designed Electro-Static discharge pad rings and digital components for Charge Trap Transistor effect measuring.
+          - Gained the qualification to tape out our chip in foundry as the **first** undergraduate team in the class of 2019. 
+          - Will validate the chip's function on printed circuit board (PCB) over the next two months.
+
+    - role: <b>Logical data conversion for CIM array design</b>
+      time: Aug 2021 - Jan 2022
+      company: |
+        Nanjing University, China
+
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        **Advisor:** *Prof. Li Du, School of Electronic Science and Engineering*, Nanjing University, China
+          -	Surveyed SRAM-based CIM for AI edge devices of operation logic of AND, NAND, OR, NOR, XOR.
+          - Proposed the impossibility of computation results conversion between in-memory computing chip's SRAMs based on different operation logic.
+
+    - role: <b>Self-sensing system of optical fiber posture</b>
+      time: Oct 2022 - Nov 2021
+      company: |
+        Leader of student research group | Nanjing University, China
+
+      details: |
+        **Advisor:** *Senior Engineer Rongrong Dou, School of Electronic Science and Engineering, Nanjing University, China; Prof. Feng Wang, College of Engineering and Applied Sciences, Nanjing University, China*
+          -	Designed the system clock signal drive circuit and DC power supply module and validated them on PCB.
+          -	Collected optical data from optical fibers laid on model aircraft wings and generated posture analysis of wings by visual forms in MATLAB.
+          - Led the project to obtain the title of *National Key Supporting Fields Project - The 5th generation communication technology and the new generation IP network communication technology* **(2 out of 371 teams)**.
+
+
+
+
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: AWARDS & SCHOLARSHIPS
+    # intro: >
+    #   You can list your side projects or open source libraries in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: National Excellent Project Award in Training Program of Innovation for Undergraduates (Team Leader)
+        # link: "#hook"
+        tagline: "2022"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Zheng Gang Overseas Exchange Scholarship (less than 1%)
+        # link: "#"
+        tagline: "2021"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Jinxiao Electronic Scholarship (3%, top 3 in candidate defense)	
+        # link: "#"
+        tagline: "2021"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Outstanding Student of Nanjing University (5%)	
+        # link: "#"
+        tagline: "2021"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: TI (Texas Instruments) Cup National College Students Electronic Design Competition, Jiangsu Province Division Second Prize (1st place in our school delegate teams)
+        # link: "#"
+        tagline: "2020"
+
+      - title: Distinguished Youth in Nanjing University
+        # link: "#"
+        tagline: "2020"
+
+      - title: People's Scholarship in China (10%) 
+        # link: "#"
+        tagline: "2020"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      I am still working hard on it.
+    # papers:
+    #   - title: The Art of Computer Programming
+    #     link: "#"
+    #     authors: Donald E. Knuth
+    #     conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #     link: "#"
+    #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    #   - title: A syntax directed compiler for Algol 60
+    #     link: "#"
+    #     authors: Edgar T. Irons
+    #     conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & Pytorch
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: MATLAB
         level: 98%
 
-      - name: Angular
+      - name: Verilog
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: C
         level: 95%
 
-      - name: Ruby on Rails
+      - name: LaTex
+        level: 90%
+
+      - name: Cadence
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: iZotope & Studio One & Audition
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="https://chen-zhichao.github.io" target="_blank" rel="nofollow">Zhichao Chen</a>
+    Designed with <i class="fas fa-wrench"></i> by <a href="https://chen-zhichao.github.io" target="_blank" rel="nofollow">Zhichao Chen</a>
