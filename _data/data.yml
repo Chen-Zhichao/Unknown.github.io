@@ -54,8 +54,8 @@ career-profile:
       **<font size=4>Nanjing University (NJU)</font>**, <font color=DarkGray>Nanjing, China</font>      
       *<font size=3>Bachelor of Engineering in Electronic Science and Engineering (ESE)</font>*      
               <font size=3>Sep 2019 - Jul 2023 (expected)</font>\\
-        **Major:** Integrated Circuits Design and Integrated System | **GPA:** 4.56/5 \\
-        **Ranking:** **#3 out of all international students**, #6 out of 39 in the major, Top 10% in the school \\
+        **Major:** Integrated Circuits Design and Integrated System | **GPA:** 4.52/5 \\
+        **Ranking:** Top 10% in the school, #6 out of 39 in the major \\
         **Core Courses:** CMOS Analog Circuit Design (94, top 5), IC Design and Solution (96, ranking 5%), Advanced Integrated Circuits Design and Experiment (85, top 2 in undergraduates), Engineering Fundamental of Artificial Intelligence IV (97, top 5), Operating System and Linux Programming (94, ranking 5%). 
         <hr>
         **<font size=4>University of Dayton (UD)</font>**, <font color=DarkGray>Ohio, USA,</font>\\
@@ -82,16 +82,30 @@ education:
     - degree: Computer Vision
       university: domain adaptation, active segmentation adaptation
       time:
-    - degree: Electronic Design Automation
+
 experiences:
+    - role: <b>Charge Trap Transistor (CTT) effect based memory design</b>
+      time: Jul 2022 - Present
+      company: |
+        Nanjing University, China
+
+      details: |
+        **Advisor:** *Prof. Li Du, School of Electronic Science and Engineering, [Nanjing University](https://www.nju.edu.cn), China*
+          -	Surveyed Static Random-Access Memory (SRAM)-based computing-in-memory schemes for AI edge devices of operation logic of AND, NAND, OR, NOR, XOR. Proposed the impossibility of computation results conversion between in-memory computing chip’s SRAMs based on different operation logic.
+          - Tested the CTT effect measuring chip on printed circuit board (PCB) board automatically with self-designed LabView programs. Researched the repeatability of CTT programming, the trapping, de-trapping, Vth degression characteristic, and the scheme to accelerate the stabilization of Vth after programming.
+          - Implemented CTT effect chip design again in HLMC 65nm technology node. Will validate the feasibility to build a CTT memory based on a differential structure.
+
+          
     - role: <b>Active learning for domain adaptation (Online)</b>
       time: Apr 2022 - Present
       company: |
         Exchange Scholar | University of California, Berkeley, USA
 
       details: |
-        **Advisor:** *Prof. Alberto L. Sangiovanni-Vincentelli, Dr. Xiangyu Yue, Dept. of Electrical Engineering and Computer Sciences, [University of California, Berkeley](https://www.berkeley.edu/), USA*
-          - Expecting to implement an algorithm of active learning for domain adaptation on image/region level.
+        **Advisor:** *Prof. Alberto L. Sangiovanni-Vincentelli, Dr. Xiangyu Yue, Dr. Dequan Wang, Dept. of Electrical Engineering and Computer Sciences, [University of California, Berkeley](https://www.berkeley.edu/), USA*
+          - Proposed the scheme to add a complementary prediction confidence term for samples’ uncertainty evaluating in Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation (CVPR Oral 2022), and improved performance by 0.8 mIoU.
+          - Designed an approach to optimize adaptive instance normalization to do gradual class-wise specific style transfer for domain alignment (Still implementing).
+
 
     - role: <b>Multi-bit Flash cell/array high-precision read/write programming chip design for Computing-In-Memory (CIM)</b>
       time: Sep 2021 – Present
@@ -105,16 +119,6 @@ experiences:
           - Designed a MOSFET array with self-designed Electro-Static discharge pad rings and digital components for Charge Trap Transistor effect measuring.
           - Gained the qualification to tape out our chip in foundry as the **first** undergraduate team in the class of 2019. 
           - Will validate the chip's function on printed circuit board (PCB) over the next two months.
-
-    - role: <b>Logical data conversion for CIM array design</b>
-      time: Aug 2021 - Jan 2022
-      company: |
-        Nanjing University, China
-
-      details: |
-        **Advisor:** *Prof. Li Du, School of Electronic Science and Engineering*, Nanjing University, China
-          -	Surveyed SRAM-based CIM for AI edge devices of operation logic of AND, NAND, OR, NOR, XOR.
-          - Proposed the impossibility of computation results conversion between in-memory computing chip's SRAMs based on different operation logic.
 
     - role: <b>Self-sensing system of optical fiber posture</b>
       time: Oct 2022 - Nov 2021
