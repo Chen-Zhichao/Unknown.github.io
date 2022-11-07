@@ -118,7 +118,6 @@ experiences:
       details: |
         **Advisor:** *Prof. Yuan Du, Prof. Li Du, School of Electronic Science and Engineering, [Nanjing University](https://www.nju.edu.cn), China*
           - Contributed to designing a CMOS analog sense amplifier, analog current comparison module, capacitor charging module, and complete flash array layout.
-          - Built a library of digital logic devices, including various kinds of decoders and analog/digital multiplexers. 
           - Earned the qualification to tape out our chip in CSMC 0.25 μm technology node as the first undergraduate team in the class of 2019.
           - Implemented a MOSFET array with self-designed electrostatic discharge pad rings and digital components for CTT effect measured in CSMC 0.25 μm technology node.
           - Will validate the chip's function on PCB later.
