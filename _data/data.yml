@@ -175,11 +175,11 @@ publications:
     title: Publications
     intro: |
       - <u>**Z. Chen**</u>, Y. Xiao, L. Du and Y. Du, “Characterization of Charge-Trap-Transistor (CTT) Threshold Voltage Degradation and Differential-Pair-Based Memory Design,” (Submitted to IEEE [International Symposium on Circuits and Systems](https://iscas2023.org/), 2023)
-    # papers:
-    #   - title: The Art of Computer Programming
-    #     link: "#"
-    #     authors: Donald E. Knuth
-    #     conference: Addison-Wesley, 1968
+    papers:
+      - title: Characterization of Charge-Trap-Transistor (CTT) Threshold Voltage Degradation and Differential-Pair-Based Memory Design
+        link: "#"
+        authors: **<u>Z. Chen</u>**, Y. Xiao, L. Du, Y. Du
+        conference: ISCAS, 2023 (submitted)
 
     #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     #     link: "#"
@@ -255,6 +255,9 @@ skills:
 
       - name: Cadence
         level: 85%
+        
+      - name: Slurm
+        level: 80%
 
       - name: iZotope & Studio One & Audition
         level: 80%
