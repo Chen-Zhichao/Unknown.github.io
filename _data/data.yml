@@ -47,6 +47,9 @@ sidebar:
 
       - item: Shuttlecock
         link:
+        
+      - item: Hiking
+        link:
 
 career-profile:
     title: Education
@@ -84,28 +87,28 @@ education:
       time:
 
 experiences:
-    - role: <b>Charge Trap Transistor (CTT) effect based memory design</b>
+    - role: <b>Charge Trap Transistor (CTT) based logic-compatible embedded non-volatile memory (NVM) design</b>
       time: Jul 2022 - Present
       company: |
-        Nanjing University, China
+        Independent Researcher | Nanjing University, China
 
       details: |
-        **Advisor:** *Prof. Li Du, School of Electronic Science and Engineering, [Nanjing University](https://www.nju.edu.cn), China*
-          -	Surveyed Static Random-Access Memory (SRAM)-based computing-in-memory schemes for AI edge devices of operation logic of AND, NAND, OR, NOR, XOR. Proposed the impossibility of computation results conversion between in-memory computing chip’s SRAMs based on different operation logic.
-          - Tested the CTT effect measuring chip on printed circuit board (PCB) board automatically with self-designed LabView programs. Researched the repeatability of CTT programming, the trapping, de-trapping, Vth degression characteristic, and the scheme to accelerate the stabilization of Vth after programming.
-          - Implemented CTT effect chip design again in HLMC 65nm technology node. Will validate the feasibility to build a CTT memory based on a differential structure.
+        **Advisor:** *Prof. Li Du, Prof. Yuan Du, School of Electronic Science and Engineering, [Nanjing University](https://www.nju.edu.cn), China*
+          - Tested CTTs on TSMC 28 nm node using self-designed LabView programs. Researched the characteristics of CTT trapping, de-trapping behavior. Characterized the degradation process of Vth’s of programmed CTTs after trapping behavior using mathematical modeling tools.
+          - Proposed a method to utilize differential values between synchronously ended programmed Vth’s to cancel the influence from degradation, and the analog values can be stored in the long term.
+          - Designed a NVM architecture adopting differential CTT-based pairs as storage elements with no added process complexity. Achieved a long-term data retention with a loss of less than 10μV/hour at 30℃. 
+          - Summarized experiment results in a paper and submitted it to IEEE International Symposium on Circuits and Systems ([ISCAS 2023](https://iscas2023.org/)) as the first author.
 
           
-    - role: <b>Active learning for domain adaptation (Online)</b>
+    - role: <b>Active domain adaptation for Semantic Segmentation(Online)</b>
       time: Apr 2022 - Present
       company: |
         Exchange Scholar | University of California, Berkeley, USA
 
       details: |
         **Advisor:** *Prof. Alberto L. Sangiovanni-Vincentelli, Dr. Xiangyu Yue, Dr. Dequan Wang, Dept. of Electrical Engineering and Computer Sciences, [University of California, Berkeley](https://www.berkeley.edu/), USA*
-          - Proposed the scheme to add a complementary prediction confidence term for samples’ uncertainty evaluating in Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation (CVPR Oral 2022), and improved performance by 0.8 mIoU.
-          - Designed an approach to optimize adaptive instance normalization to do gradual class-wise specific style transfer for domain alignment (Still implementing).
-
+          - Proposed the scheme to add a complementary prediction confidence term for samples’ uncertainty evaluating in Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation ([CVPR Oral 2022](https://arxiv.org/abs/2111.12940)), and improved performance by 0.3 mIoU.
+          - Proposed a domain adaptation approach based on regional contrastive learning and adaptive active annotation. (Still experimenting.)
 
     - role: <b>Multi-bit Flash cell/array high-precision read/write programming chip design for Computing-In-Memory (CIM)</b>
       time: Sep 2021 – Present
@@ -114,11 +117,11 @@ experiences:
 
       details: |
         **Advisor:** *Prof. Yuan Du, Prof. Li Du, School of Electronic Science and Engineering, [Nanjing University](https://www.nju.edu.cn), China*
-          - Contributed to designing a CMOS analog sense amplifier, an analog current comparison module, a capacitor charging module and the whole flash array layout.
-          - Built a library of digital logic devices, including all kinds of decoders and analog/digital multiplexers.
-          - Designed a MOSFET array with self-designed Electro-Static discharge pad rings and digital components for Charge Trap Transistor effect measuring.
-          - Gained the qualification to tape out our chip in foundry as the **first** undergraduate team in the class of 2019. 
-          - Will validate the chip's function on printed circuit board (PCB) over the next two months.
+          - Contributed to designing a CMOS analog sense amplifier, analog current comparison module, capacitor charging module, and complete flash array layout.
+          - Built a library of digital logic devices, including various kinds of decoders and analog/digital multiplexers. 
+          - Earned the qualification to tape out our chip in CSMC 0.25 μm technology node as the first undergraduate team in the class of 2019.
+          - Implemented a MOSFET array with self-designed electrostatic discharge pad rings and digital components for CTT effect measured in CSMC 0.25 μm technology node.
+          - Will validate the chip's function on PCB later.
 
     - role: <b>Self-sensing system of optical fiber posture</b>
       time: Oct 2022 - Nov 2021
