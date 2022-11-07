@@ -174,7 +174,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      - <u>**Z. Chen**</u>, Y. Xiao, L. Du and Y. Du, “Characterization of Charge-Trap-Transistor (CTT) Threshold Voltage Degradation and Differential-Pair-Based Memory Design,” (Submitted to IEEE [International Symposium on Circuits and Systems](https://iscas2023.org/), 2023)
+      - <b><u>Z. Chen</u></b>, Y. Xiao, L. Du and Y. Du, “Characterization of Charge-Trap-Transistor (CTT) Threshold Voltage Degradation and Differential-Pair-Based Memory Design,” (Submitted to IEEE [International Symposium on Circuits and Systems](https://iscas2023.org/), 2023)
     papers:
       - title: Characterization of Charge-Trap-Transistor (CTT) Threshold Voltage Degradation and Differential-Pair-Based Memory Design
         link: "#"
