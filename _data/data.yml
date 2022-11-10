@@ -57,8 +57,8 @@ career-profile:
       **<font size=4>Nanjing University (NJU)</font>**, <font color=DarkGray>Nanjing, China</font>      
       *<font size=3>Bachelor of Engineering in Electronic Science and Engineering (ESE)</font>*      
               <font size=3>Sep 2019 - Jul 2023 (expected)</font>\\
-        **Major:** Integrated Circuits Design and Integrated System | **GPA:** 4.52/5.0 \\
-        **Ranking:** Top 5% out of 202 in the school, top 3 in major | **TOEFL:** 105 \\
+        **Major:** VLSI Design & System Integration | **GPA:** 4.52/5.0 \\
+        **Ranking:** Top 5% out of 202 in school, top 3 in major | **TOEFL:** 105 \\
         **Core Courses:** CMOS Analog Circuit Design (94, top 5), IC Design and Solution (96, ranking 5%), Advanced Integrated Circuits Design and Experiment (85, top 2 in undergraduates), Engineering Fundamental of Artificial Intelligence IV (97, top 5), Operating System and Linux Programming (94, ranking 5%). 
         <hr>
         **<font size=4>University of Dayton (UD)</font>**, <font color=DarkGray>Ohio, USA,</font>\\
@@ -72,7 +72,7 @@ career-profile:
 
 education:
     - degree: Integrated Circuits Design
-      university: in-memory computing chip design, AI hardware acceleration
+      university: In-memory Computing, Hardware Accelerators for AI Algorithms, Neuromorphic Computing
       time:
       # details: |
       #   Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -83,7 +83,7 @@ education:
       #     - Bullet point
       #     - Bullet point
     - degree: Computer Vision
-      university: domain adaptation, active segmentation adaptation
+      university: Domain Adaptation, Active Segmentation Adaptation
       time:
 
 experiences:
