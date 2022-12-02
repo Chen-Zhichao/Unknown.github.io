@@ -59,7 +59,7 @@ career-profile:
               <font size=3>Sep 2019 - Jul 2023 (expected)</font>\\
         **Major:** VLSI Design & System Integration | **GPA:** 4.52/5.0 \\
         **Ranking:** Top 5% out of 202 in school, top 3 in major | **TOEFL:** 105 \\
-        **Core Courses:** CMOS Analog Circuit Design (94, top 5), IC Design and Solution (96, ranking 5%), Advanced Integrated Circuits Design and Experiment (85, top 2 in undergraduates), Engineering Fundamental of Artificial Intelligence IV (97, top 5), Operating System and Linux Programming (94, ranking 5%). 
+        **Core Courses:** CMOS Analog Circuit Design (94, top 5), IC Design and Solution (96, ranking 5%), Probability and Stochastic Process (94), Advanced Integrated Circuits Design and Experiment (85, top 2 in undergraduates), Engineering Fundamental of Artificial Intelligence IV (97, top 5), Operating System and Linux Programming (94, ranking 5%). 
         <hr>
         **<font size=4>University of Dayton (UD)</font>**, <font color=DarkGray>Ohio, USA,</font>\\
         **<font size=4>Karlsruhe Institute of Technology (KIT)</font>**, <font color=DarkGray>Karlsruhe, Germany</font>\\
@@ -107,8 +107,9 @@ experiences:
 
       details: |
         **Advisor:** *Prof. Alberto L. Sangiovanni-Vincentelli, Dr. Xiangyu Yue, Dr. Dequan Wang, Dept. of Electrical Engineering and Computer Sciences, [University of California, Berkeley](https://www.berkeley.edu/), USA*
-          - Proposed the scheme to add a complementary prediction confidence term for samples’ uncertainty evaluating in Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation ([CVPR Oral 2022](https://arxiv.org/abs/2111.12940)), and improved performance by 0.3 mIoU.
-          - Proposed a domain adaptation approach based on regional contrastive learning and adaptive active annotation. (Still experimenting.)
+          - Proposed a scheme to add a complementary prediction confidence term for samples’ uncertainty evaluation of a CVPR work.
+          - Proposed a domain adaptation approach based on regional contrastive learning and adaptive active annotation. This method achieved a performance of 66.0 mIoU. (Still experimenting.) 
+
 
     - role: <b>Multi-bit Flash cell/array high-precision read/write programming chip design for Computing-In-Memory (CIM)</b>
       time: Sep 2021 – Present
@@ -132,7 +133,7 @@ experiences:
           -	Designed the system clock signal drive circuit and DC power supply module and validated them on PCB.
           -	Collected optical data from optical fibers laid on model aircraft wings and generated posture analysis of wings by visual forms in MATLAB.
           - Led the project to obtain the title of *National Key Supporting Fields Project - The 5th generation communication technology and the new generation IP network communication technology* **(2 out of 371 teams)**.
-
+          - Participated in the 15th National College Students Annual Conference on Innovation and Entrepreneurship in 2022 and the 15th anniversary of the “National Innovation Scheme” innovation achievements exhibition (13 teams admitted in Jiangsu Province).
 
 
 
@@ -152,6 +153,10 @@ projects:
         tagline: "2021"
 
       - title: Jinxiao Electronic Scholarship (3%, top 3 in candidate defense)	
+        # link: "#"
+        tagline: "2021"
+       
+      - title: People’s Scholarship Award for Cultural and Sports Activities (5%)	
         # link: "#"
         tagline: "2021"
 
@@ -241,13 +246,13 @@ skills:
       - name: Python & Pytorch
         level: 98%
 
-      - name: MATLAB
+      - name: C
         level: 98%
 
       - name: Verilog
         level: 98%
 
-      - name: C
+      - name: MATLAB
         level: 95%
 
       - name: LaTex
