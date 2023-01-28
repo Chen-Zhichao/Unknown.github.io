@@ -97,7 +97,7 @@ experiences:
           - Tested CTTs on TSMC 28 nm node using self-designed LabView programs. Researched the characteristics of CTT trapping, de-trapping behavior. Characterized the degradation process of Vth’s of programmed CTTs after trapping behavior using mathematical modeling tools.
           - Proposed a method to utilize differential values between synchronously ended programmed Vth’s to cancel the influence from degradation, and the analog values can be stored in the long term.
           - Designed a NVM architecture adopting differential CTT-based pairs as storage elements with no added process complexity. Achieved a long-term data retention with a loss of less than 10μV/hour at 30℃. 
-          - Summarized experiment results in a paper and submitted it to IEEE International Symposium on Circuits and Systems ([ISCAS 2023](https://iscas2023.org/)) as the first author.
+          - Summarized experiment results in a paper and it is accepted by IEEE International Symposium on Circuits and Systems ([ISCAS 2023](https://iscas2023.org/)) as the first author.
 
           
     - role: <b>Domain adaptation for Semantic Segmentation (Remote)</b>
@@ -179,7 +179,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      - <b><u>Z. Chen</u></b>, Y. Xiao, L. Du and Y. Du, “Characterization of Charge-Trap-Transistor (CTT) Threshold Voltage Degradation and Differential-Pair-Based Memory Design,” (Submitted to IEEE [International Symposium on Circuits and Systems](https://iscas2023.org/), 2023)
+      - <b><u>Z. Chen</u></b>, Y. Xiao, L. Du and Y. Du, “Characterization of Charge-Trap-Transistor (CTT) Threshold Voltage Degradation and Differential-Pair-Based Memory Design,” (Accepted by IEEE [International Symposium on Circuits and Systems](https://iscas2023.org/), 2023)
 #     papers:
 #       - title: Characterization of Charge-Trap-Transistor (CTT) Threshold Voltage Degradation and Differential-Pair-Based Memory Design
 #         link: "#"
