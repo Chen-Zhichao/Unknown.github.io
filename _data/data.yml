@@ -109,7 +109,7 @@ experiences:
       details: |
         **Advisor:** *Prof. Alberto L. Sangiovanni-Vincentelli, Dr. Xiangyu Yue, Dr. Dequan Wang, Dept. of Electrical Engineering and Computer Sciences, [University of California, Berkeley](https://www.berkeley.edu/), USA*
           - Proposed a scheme to add a complementary prediction confidence term for samples’ uncertainty evaluation of a CVPR work.
-          - Proposed a domain adaptation approach based on regional contrastive learning and adaptive active annotation. This method achieved a performance of 66.0 mIoU. (Still experimenting.) 
+          - Proposed a domain adaptation approach based on regional contrastive learning and adaptive active annotation. This method achieved a performance of 73.3 mIoU on GTAV→Cityscapes benchmark and 74.6 mIoU on SYNTHIA→Cityscapes benchmark. (Still experimenting.) 
 
 
     - role: <b>Multi-bit Flash cell/array high-precision read/write programming chip design for Computing-In-Memory (CIM)</b>
